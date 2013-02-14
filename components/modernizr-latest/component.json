@@ -1,0 +1,9 @@
+{
+  "name": "modernizr-latest",
+  "main": "index.js",
+  "version": "0.0.0",
+  "repository": {
+    "type": "asset",
+    "url": "http://modernizr.com/downloads/modernizr-latest.js"
+  }
+}

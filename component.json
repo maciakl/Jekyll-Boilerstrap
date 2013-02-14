@@ -1,0 +1,9 @@
+{
+  "name": "Jekyll-Boilerstrap",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~1.9.1",
+    "bootstrap": "http://twitter.github.com/bootstrap/assets/bootstrap.zip",
+    "modernizr-latest": "http://modernizr.com/downloads/modernizr-latest.js"
+  }
+}
